@@ -14,3 +14,6 @@
   - Application switcher UI does not consistently appear on primary display, and even that would be a limitation. It would be logical to be on the currently active screen.
   - There's no thumbnail preview of the application windows. In fact all windows appear as one, regardless of whether those are on the same or separare displays. There's no way to switch between the windows of an application with this UI.
   - Solution: brew install --cask alt-tab
+
+- F5 not working in Chrome
+  - Solution: https://www.coolfundas.com/set-f5-shortcut-to-refresh-chrome-browser-mac/
