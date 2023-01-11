@@ -17,3 +17,10 @@
 
 - F5 not working in Chrome
   - Solution: https://www.coolfundas.com/set-f5-shortcut-to-refresh-chrome-browser-mac/
+
+- MacOS dock is very limited
+  - Does not support multiple windows
+  - Does not support thumbnail preview
+  - Not space efficient: Although the height is configurable it takes up more space then a Windows/Linux taskbar, because it contains only icons, while other solutions contains mainly text and additionally a small icon.
+  - Active applications and the number of windows of windows are not easily visible at first glance. The dots that indicates the active applications are not a sufficient way to indicate that.
+  - Solution: **no solution**. There are no alternative docks or ways to extend the default dock that are of acceptable quality.
