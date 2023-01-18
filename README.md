@@ -24,3 +24,8 @@
   - Not space efficient: Although the height is configurable it takes up more space then a Windows/Linux taskbar, because it contains only icons, while other solutions contains mainly text and additionally a small icon.
   - Active applications and the number of windows of windows are not easily visible at first glance. The dots that indicates the active applications are not a sufficient way to indicate that.
   - Solution: **no solution**. There are no alternative docks or ways to extend the default dock that are of acceptable quality.
+
+- Scroll direction is the same on the integrated touchpad and an external mouse
+  - Note: Inverted scrolling (natural scrolling) is preferred on modern touchpads, but then an external mouses wheel will be reversed.
+  - Solution: https://github.com/noah-nuebling/mac-mouse-fix
+  - Note for solution: the solution adds some extra modifications for the mouse buttons, which eg. makes the middle button hold free scroll impossible. Since the solution is open source this could be fixed with a pull request.
