@@ -39,3 +39,9 @@
 
 - There's no simple plain text editor
   - Solution: http://www.barebones.com/products/bbedit/
+
+- No easy way to maximize/restore a window (not full screen)
+  - Note: Double click on title bar sometimes work but is not consistent.
+  - Solution: BetterTouchTool (BTT) out of the box supports snapping to top and both sides to maximize and half-fill the screen like in Windows.
+  - Note: After a window has been maximized by snapping to top it can be restored by dragging it down. But more testing is needed to check whether this is consistent.
+  - Note: I experimented with another solution that repurposes the green full screen button as a maximize/restore button, but currently it's not consistent. Some info can be found here: https://community.folivora.ai/t/get-active-window-size-and-screen-size/29735/10
