@@ -29,3 +29,7 @@
   - Note: Inverted scrolling (natural scrolling) is preferred on modern touchpads, but then an external mouses wheel will be reversed.
   - Solution: https://github.com/noah-nuebling/mac-mouse-fix
   - Note for solution: the solution adds some extra modifications for the mouse buttons, which eg. makes the middle button hold free scroll impossible. Since the solution is open source this could be fixed with a pull request.
+
+- Hungarian keyboard layout is wrong
+  - Note: some symbol characters, eg. parenthesis are on wrong places.
+  - Solution: https://github.com/zaki/mac-hun-keyboard
