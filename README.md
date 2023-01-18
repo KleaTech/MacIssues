@@ -50,3 +50,6 @@
   - Note: Mostly useful for opening links in new tab in Chromium-based browsers
   - Solution: Remap with BTT
   - Note: 3 finger tap is not consistent. 3 finger click is better, but more experience is needed to tell if 100% consistent.
+
+- No shortcut for Activity Monitor
+  - Solution: Create in BTT
