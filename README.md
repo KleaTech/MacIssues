@@ -45,3 +45,8 @@
   - Solution: BetterTouchTool (BTT) out of the box supports snapping to top and both sides to maximize and half-fill the screen like in Windows.
   - Note: After a window has been maximized by snapping to top it can be restored by dragging it down. But more testing is needed to check whether this is consistent.
   - Note: I experimented with another solution that repurposes the green full screen button as a maximize/restore button, but currently it's not consistent. Some info can be found here: https://community.folivora.ai/t/get-active-window-size-and-screen-size/29735/10
+
+- 3 finger tap/click on touchpad is not handled as middle mouse click
+  - Note: Mostly useful for opening links in new tab in Chromium-based browsers
+  - Solution: Remap with BTT
+  - Note: 3 finger tap is not consistent. 3 finger click is better, but more experience is needed to tell if 100% consistent.
