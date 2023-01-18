@@ -53,3 +53,6 @@
 
 - No shortcut for Activity Monitor
   - Solution: Create in BTT
+
+- No screenshot snapping tool, complicated shortcuts for screenshots and no support for PrtScr button
+  - Solution: BTT support multiple ways to create snapshots. You can select region for snapshot and edit it immediately.
