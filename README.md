@@ -56,3 +56,8 @@
 
 - No screenshot snapping tool, complicated shortcuts for screenshots and no support for PrtScr button
   - Solution: BTT support multiple ways to create snapshots. You can select region for snapshot and edit it immediately.
+
+- Applications with no open windows sometimes keeps running for no reason
+  - Note: In some cases it makes sense for an application to keep running background tasks, but it's possible to do without showing up in the running applications (eg. on the Dock). There's no good reason to be in this half-opened state.
+  - Solution: On the AltTab user interface there's a purple quit button wihich is a convinient way to close these apps.
+  - Alternative solution: There are tools to do this and BTT can also do it, but sometimes the detection for windowless apps fail and important windows are closed immediately after they open. These can cause weird behavior and issues. My suggestion is to use AltTab, it's convenient.
