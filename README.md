@@ -33,3 +33,9 @@
 - Hungarian keyboard layout is wrong
   - Note: some symbol characters, eg. parenthesis are on wrong places.
   - Solution: https://github.com/zaki/mac-hun-keyboard
+
+- There's no Total Commander
+  - Solution: https://mac.eltima.com/file-manager.html
+
+- There's no simple plain text editor
+  - Solution: http://www.barebones.com/products/bbedit/
