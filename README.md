@@ -64,3 +64,7 @@
 
 - It's not possible to set volume for each application
   - Solution: https://github.com/kyleneideck/BackgroundMusic
+
+- There's no paint program
+  - Solution: https://sourceforge.net/projects/paintbrush/
+  - Note: Further testing is needed to evaluate the usability of this.
