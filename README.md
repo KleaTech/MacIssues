@@ -61,3 +61,6 @@
   - Note: In some cases it makes sense for an application to keep running background tasks, but it's possible to do without showing up in the running applications (eg. on the Dock). There's no good reason to be in this half-opened state.
   - Solution: On the AltTab user interface there's a purple quit button wihich is a convinient way to close these apps.
   - Alternative solution: There are tools to do this and BTT can also do it, but sometimes the detection for windowless apps fail and important windows are closed immediately after they open. These can cause weird behavior and issues. My suggestion is to use AltTab, it's convenient.
+
+- It's not possible to set volume for each application
+  - Solution: https://github.com/kyleneideck/BackgroundMusic
