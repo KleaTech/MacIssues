@@ -68,3 +68,6 @@
 - There's no paint program
   - Solution: https://sourceforge.net/projects/paintbrush/
   - Note: Further testing is needed to evaluate the usability of this.
+
+- No support for android usb tethering
+  - Solution: https://github.com/jwise/HoRNDIS
