@@ -71,3 +71,7 @@
 
 - No support for android usb tethering
   - Solution: https://github.com/jwise/HoRNDIS
+
+- You don't receive notification from certain apps
+  - Note: Notifications for each app are always disabled by default. But when you first launch the app macOS shows a popup where you can enable the notifications. Sometimes this notification either does not appear or get's discarded by another one.
+  - Solution: Check notification settings in System Settings after every app install or when you suspect that notifications are missing.
