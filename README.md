@@ -79,3 +79,8 @@
 - Sound settings gets disabled sometimes when using an HDMI monitor, especially volume control on the connection external monitor.
   - This one requires more testing, the scope is not clear yet.
   - Potential sultion and infos: https://github.com/dragstor/mac-sound-fix
+
+- There's no option to completely disable drag lock
+  - Note: There's a 500-1000ms delay even when "without drag-lock" is selected.
+  - Solution: https://github.com/ideawu/Mac-No-Drag-Release-Delay
+  - Note: Solution link does not have a binary anymore, only source code. I added a binary to this repo but it's from a very old forum post.
