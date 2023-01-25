@@ -8,6 +8,7 @@
   - Note: shortcut override (eg. with BTT) does not work consistently and terminal needs additional steps.
   - Solution: https://damieng.com/blog/2015/04/24/make-home-end-keys-behave-like-windows-on-mac-os-x/
   - Additional steps for terminal: https://jeffmikels.org/posts/how-to-fix-home-and-end-keys-in-the-mac-terminal/
+  - Note: In case one line is wrapped to multiple lines, end/home will move the cursor to the very beginning or end. This is in contrast to Windows behavior and seems less practical. But arrow keys works as expected for wrapped single lines.
 
 - Application switcher (Alt-Tab on Windows) has several issues
   - I have Command and Option key switched for muscle memory reasons. At least in this case the app switcher shortcut on external keyboard is Ctrl+Tab instead of Alt+Tab.
@@ -87,3 +88,9 @@
 
 - Very slow key repeate rate
   - Solution: Simple for this one, set it all the way up in System Settings -> Keyboard.
+
+- Mac modifier keys are on different places by functionality then standard PC modifier keys
+  - Note: This makes it hard to switch between macOS and other OSes due to muscle memory.
+  - Solution: At least on Macbook Pro 14" M1 the following setup makes the modifier key layout consistent between the laptop, external keyboards and other OSes:
+    - On laptop set fn (globe) to command, option to fn, command to option. Effective keys from left to right: command, control, fn, option.
+    - On external keyboard set control to command and command to control. Effective keys from left to right: command, control, option.
