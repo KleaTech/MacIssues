@@ -84,3 +84,6 @@
   - Note: There's a 500-1000ms delay even when "without drag-lock" is selected.
   - Solution: https://github.com/ideawu/Mac-No-Drag-Release-Delay
   - Note: Solution link does not have a binary anymore, only source code. I added a binary to this repo but it's from a very old forum post.
+
+- Very slow key repeate rate
+  - Solution: Simple for this one, set it all the way up in System Settings -> Keyboard.
