@@ -75,3 +75,7 @@
 - You don't receive notification from certain apps
   - Note: Notifications for each app are always disabled by default. But when you first launch the app macOS shows a popup where you can enable the notifications. Sometimes this notification either does not appear or get's discarded by another one.
   - Solution: Check notification settings in System Settings after every app install or when you suspect that notifications are missing.
+
+- Sound settings gets disabled sometimes when using an HDMI monitor, especially volume control on the connection external monitor.
+  - This one requires more testing, the scope is not clear yet.
+  - Potential sultion and infos: https://github.com/dragstor/mac-sound-fix
