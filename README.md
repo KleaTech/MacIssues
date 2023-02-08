@@ -94,3 +94,7 @@
   - Solution: At least on Macbook Pro 14" M1 the following setup makes the modifier key layout consistent between the laptop, external keyboards and other OSes:
     - On laptop set fn (globe) to command, option to fn, command to option. Effective keys from left to right: command, control, fn, option.
     - On external keyboard set control to command and command to control. Effective keys from left to right: command, control, option.
+
+- Cannot quickly view images in a directory
+  - Note: Preview app does not allow navigating between images in a directory. It allows opening multiple images, but that's not suitable for directories that contains not just images. Quick View might be an alternative. But it's reasonable to have a small program that can show an image and navigate between the images with the arrow keys.
+  - Solution: https://github.com/lambdan/imageviewer5
