@@ -18,6 +18,7 @@
 
 - F5 not working in Chrome
   - Solution: https://www.coolfundas.com/set-f5-shortcut-to-refresh-chrome-browser-mac/
+  - Note: This will not work in DevTools window.
 
 - MacOS dock is very limited
   - Does not support multiple windows
@@ -25,6 +26,7 @@
   - Not space efficient: Although the height is configurable it takes up more space then a Windows/Linux taskbar, because it contains only icons, while other solutions contains mainly text and additionally a small icon.
   - Active applications and the number of windows of windows are not easily visible at first glance. The dots that indicates the active applications are not a sufficient way to indicate that.
   - Solution: **no solution**. There are no alternative docks or ways to extend the default dock that are of acceptable quality.
+  - Note: A possible workaround is to hide the Dock and use Alt Tab only.
 
 - Scroll direction is the same on the integrated touchpad and an external mouse
   - Note: Inverted scrolling (natural scrolling) is preferred on modern touchpads, but then an external mouses wheel will be reversed.
@@ -37,9 +39,11 @@
 
 - There's no Total Commander
   - Solution: https://mac.eltima.com/file-manager.html
+  - Note: this is quite limited compared to Total Commander.
 
 - There's no simple plain text editor
   - Solution: http://www.barebones.com/products/bbedit/
+  - Note: this is quite limited compared to Notepad++. An alternative is to just use VS Code.
 
 - No easy way to maximize/restore a window (not full screen)
   - Note: Double click on title bar sometimes work but is not consistent.
@@ -98,3 +102,7 @@
 - Cannot quickly view images in a directory
   - Note: Preview app does not allow navigating between images in a directory. It allows opening multiple images, but that's not suitable for directories that contains not just images. Quick View might be an alternative. But it's reasonable to have a small program that can show an image and navigate between the images with the arrow keys.
   - Solution: https://github.com/lambdan/imageviewer5
+
+- Mouse cursor wiggles when laptop is docked
+  - Context: https://www.reddit.com/r/MacOS/comments/16y4rbn/mouse_cursor_wiggling_on_external_screen_only_mbp/
+  - Solution: **no solution**
