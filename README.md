@@ -106,3 +106,8 @@
 - Mouse cursor wiggles when laptop is docked
   - Context: https://www.reddit.com/r/MacOS/comments/16y4rbn/mouse_cursor_wiggling_on_external_screen_only_mbp/
   - Solution: **no solution**
+ 
+- Finder cannot find files
+  - Note: Finder uses Spotlight Search, which only searches in it's index. So to make sure that every file is found, the index needs to be rebuilt every time before a search. Which is unacceptable.
+  - Solution: Use the `find` command from the command line. eg. `find ~ -name "filename"`
+  - Note: There are apps that supposedly work fine, like EasyFind.
